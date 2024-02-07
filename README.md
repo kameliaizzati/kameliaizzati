@@ -1,6 +1,6 @@
 Hi everyone, my name is Kamelia Izzati! 
 
-I just discovered and decided to be a software engineer or any roles that related with coding and problem-solving skills.
+I just discovered and decided to become a software engineer or any roles that related with coding and problem-solving skills.
 So here I am to start my journey to become a programmer. Wish me luck!
 <!--
 **kameliaizzati/kameliaizzati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
