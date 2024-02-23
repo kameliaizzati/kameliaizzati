@@ -1,7 +1,7 @@
-Hi everyone, my name is Kamelia Izzati! 
+Hi everyone, newbie programmer is here! 
 
-I just discovered and decided to become a software engineer or any roles that related with coding and problem-solving skills.
-So here I am to start my journey to become a programmer. Wish me luck!
+Kamelia Izzati is here to start the journey to become a great programmer one day! Wish me luck!✨
+
 <!--
 **kameliaizzati/kameliaizzati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
